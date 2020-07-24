@@ -17,4 +17,11 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
+<<<<<<< HEAD
+=======
+  def brand=(brand)
+    BRANDS << @brand
+  end
+
+>>>>>>> e2ae029196f03641d5401febc8074d310c66bb21
 end
